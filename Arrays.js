@@ -114,6 +114,7 @@
 // let check = numbers.find(num => num > 100);
 // console.log(check)
 
-let arr = ["dog", "horse", "cat", "sheep"];
-let found = arr.find(word => word.length > 4);
-console.log(found);
+// let arr = ["dog", "horse", "cat", "sheep"];
+// let found = arr.find(word => word.length > 4);
+// console.log(found);
+
